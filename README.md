@@ -1,0 +1,1 @@
+# asda-slot-checker
